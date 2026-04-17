@@ -5,7 +5,7 @@
 This project is a Location-Based Attendance System designed to ensure secure and accurate attendance tracking using QR code scanning and geolocation verification.
 It prevents proxy attendance by allowing users to mark attendance only when they are physically present at the required location.
 
-🎯 Features
+
 
 ## 🎯 Features
 

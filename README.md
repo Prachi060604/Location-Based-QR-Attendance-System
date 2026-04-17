@@ -7,18 +7,18 @@ It prevents proxy attendance by allowing users to mark attendance only when they
 
 🎯 Features
 
-📌 QR Code-based attendance marking
-📍 Real-time location verification
-🔐 Prevents proxy/fake attendance
-👨‍🏫 Admin control for attendance management
-👩‍🎓 Student interface for marking attendance
-📊 Database-driven attendance records
-⚡ Fast and user-friendly system
+## 🎯 Features
 
+- QR Code-based attendance marking  
+- Real-time location verification  
+- Prevents proxy attendance  
+- Admin dashboard for management  
+- Student interface for attendance marking  
+- Database-driven record storage  
 
 🛠️ Tech Stack
 
-Frontend: React.js 
-Backend: Node.js, Express.js
-Database: MySQL
-Tools: Localhost
+- Frontend: React.js 
+- Backend: Node.js, Express.js
+- Database: MySQL
+- Tools: Localhost
